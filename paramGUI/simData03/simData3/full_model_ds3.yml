@@ -1,7 +1,7 @@
 dataset:
   dataset:
-    megacomplex: [kin_mc]
-    global_megacomplex: [spec_mc]
+    megacomplex: [spec_mc]
+    global_megacomplex: [kin_mc]
     initial_concentration: inputs
     spectral_axis_inverted: True
     spectral_axis_scale: 1E7

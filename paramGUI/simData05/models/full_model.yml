@@ -1,8 +1,8 @@
 # default_megacomplex: decay  # is specified per megacomplex
 dataset:
   dataset:
-    megacomplex: [kin_mc]
-    global_megacomplex: [spec_mc]
+    megacomplex: [spec_mc]
+    global_megacomplex: [kin_mc]
     initial_concentration: inputs
     irf: irf1
 
