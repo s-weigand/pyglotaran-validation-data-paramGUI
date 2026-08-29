@@ -24,15 +24,15 @@ uv sync
 ### Run a single notebook from the CLI
 
 ```bash
-uv run python scripts/run_notebooks.py simdata01
-uv run python scripts/run_notebooks.py simdata02
-uv run python scripts/run_notebooks.py simdata03
-uv run python scripts/run_notebooks.py simdata04
-uv run python scripts/run_notebooks.py simdata05
+uv run scripts/run_notebooks.py simdata01
+uv run scripts/run_notebooks.py simdata02
+uv run scripts/run_notebooks.py simdata03
+uv run scripts/run_notebooks.py simdata04
+uv run scripts/run_notebooks.py simdata05
 ```
 
 ### Run all notebooks
 
 ```bash
-uv run python scripts/run_notebooks.py run-all
+uv run scripts/run_notebooks.py run-all
 ```
