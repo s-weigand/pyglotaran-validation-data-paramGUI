@@ -19,5 +19,4 @@ dependencies = [
 ]
 
 [tool.uv]
-sources.pyglotaran-extras = { path = "../pyglotaran-extras", editable = true }
 package = false
