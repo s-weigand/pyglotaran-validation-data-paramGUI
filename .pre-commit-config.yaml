@@ -50,7 +50,7 @@ repos:
           - "--select=I"
         alias: isort
       - id: ruff-format
-      # Commands above are both formatters an not linters
+      # Commands above are both formatters and not linters
       # See also: https://github.com/astral-sh/ruff/discussions/7310#discussioncomment-7102010
       - id: ruff
         name: "ruff lint"
